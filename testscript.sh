@@ -6,4 +6,4 @@ NUMBER=$((FISRNUMBER + SECONDNUMBER))
 echo "$NUMBER"
 
 echo "Complete"
-echo "checking webhook integration2 fifth trial"
+echo "checking webhook integration2 fifth trials"
